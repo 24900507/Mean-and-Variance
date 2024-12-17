@@ -5,7 +5,7 @@
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
-# Date : 
+# Date : 10.10.2024
 
 # Software required :  
 
